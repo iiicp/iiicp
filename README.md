@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [subc-llvm](https://github.com/iiicp/subc-llvm)
 
-- 📺 You can find my [C compiler course on bilibili](https://www.bilibili.com/cheese/play/ss31453?csource=private_space_class_null&spm_id_from=333.999.0.0)
+- 📺 You can find my [c compiler course on bilibili](https://www.bilibili.com/cheese/play/ss31453?csource=private_space_class_null&spm_id_from=333.999.0.0)
 
 - 🌱 I’m currently learning **LLVM IR, C++ templates and generic programming**
 
