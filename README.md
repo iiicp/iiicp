@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm iiicp</h1>
 <h3 align="center">A passionate software developer from China</h3>
 
-- 🔭 I’m currently working on [lcc](https://github.com/iiicp/lcc)
+- 🔭 I’m currently working on [subc-llvm](https://github.com/iiicp/subc-llvm)
 
 - 🌱 I’m currently learning **LLVM IR, C++ templates and generic programming**
 
